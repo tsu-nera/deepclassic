@@ -1,0 +1,8 @@
+* Tips
+** Midi の再生
+   timidilyを使う。
+
+** MidiからWavへの変換
+   timidity input.mid -Ow -o out.wav
+   - [[https://wiki.archlinuxjp.org/index.php/Timidity][Timidity - ArchWiki]]
+
